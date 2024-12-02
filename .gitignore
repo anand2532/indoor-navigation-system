@@ -1,0 +1,25 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# IDE settings (VS Code and PyCharm)
+.vscode/
+.idea/
+
+# Local development files
+*.log
+*.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Project specific
+instance/
+config.local.py
